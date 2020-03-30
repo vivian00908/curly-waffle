@@ -1,1 +1,1 @@
-This is our final report for course Text Mining 2020
+This is our prototype and final code for course Text Mining 2020
